@@ -52,7 +52,7 @@
 
 ### 2.1 联络分工
 
-联络的时候用词用语等，请参照本模板。[联系模板](../InterviewScripts/templete_contact.md).
+联络的时候用词用语等，请参照本模板。[联系模板](../InterviewScripts/templete_contact.md)。
 
 备注部分的缩写： e:邮件  m:私信  w:微信  q: QQ
 
